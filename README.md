@@ -9,3 +9,7 @@ DOMAIN: DIGITAL MARKETING
 DURATION: 12 WEEKS
 
 MENTOR: NEELA SANTHOSH KUMAR
+
+OUTPUT:
+
+![Image](https://github.com/user-attachments/assets/500ba601-1fd0-465b-9e4c-1e2c01d0b214)
